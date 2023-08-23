@@ -1,0 +1,2 @@
+from yandex import *
+
